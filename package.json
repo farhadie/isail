@@ -22,7 +22,9 @@
     "preview": "npm run build && npm run start"
   },
   "dependencies": {
+    "ejs": "^3.1.10",
     "express": "5.1.0",
+    "kerberos": "^2.2.2",
     "parse": "6.1.1",
     "parse-server": "8.2.2"
   },
